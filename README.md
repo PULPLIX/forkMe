@@ -1,6 +1,6 @@
 # forkMe
 
-This application is to Armando to use it as a Fork test of a Git Repository. 
+This application is for Armando to use it as a Fork test of a Git Repository. 
 
 ## The tutorial
 
